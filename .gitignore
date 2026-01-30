@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+.expo/
+dist/
+
+# Logs
+npm-debug.log*
+
+# Sistema
+.DS_Store
