@@ -1,10 +1,6 @@
-# Dependencias
 node_modules/
 .expo/
 dist/
-
-# Logs
-npm-debug.log*
-
-# Sistema
 .DS_Store
+frontend-web/node_modules/
+mobile-app/node_modules/
